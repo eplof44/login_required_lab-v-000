@@ -1,1 +1,2 @@
-class SessionsController < ActionController::Base
+class SecretsController < ActionController::Base
+end 
