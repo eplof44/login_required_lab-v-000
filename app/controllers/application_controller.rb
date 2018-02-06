@@ -7,5 +7,5 @@ class ApplicationController < ActionController::Base
    session[:name]
  end
 
- 
+
 end
