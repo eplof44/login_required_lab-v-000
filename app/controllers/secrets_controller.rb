@@ -1,0 +1,1 @@
+class SessionsController < ActionController::Base
