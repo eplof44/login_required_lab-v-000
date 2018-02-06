@@ -1,2 +1,2 @@
 class SecretsController < ActionController::Base
-end 
+end
